@@ -1,0 +1,20 @@
+/*
+* Leah Rizzo
+* September 10, 2018
+* CSS
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+
+}
+#SoccerField {width: 500px; height: 400px;}
+#Night {width: 400px; height: 300px;}
+#Pasta {width: 500px; height: 400px;}
